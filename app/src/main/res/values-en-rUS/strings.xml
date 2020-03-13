@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ExampleApp</string>
+    <string name="picture">Take photo</string>
+    <string name="message_toast">You have taken a photo</string>
+    <string name="permission_granted">You have already given the necessary permissions!</string>
+    <string name="permission_denied">The application needs the permissions, to function properly</string>
+</resources>

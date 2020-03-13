@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExampleApp</string>
+    <string name="picture">Tomar Foto</string>
+    <string name="message_toast">Haz tomado una foto</string>
+    <string name="permission_granted">¡Ya has dado los permisos necesarios!</string>
+    <string name="permission_denied">La aplicacion necesita los permisos, para funcionar correctamente</string>
+</resources>
